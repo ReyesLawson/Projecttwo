@@ -10,7 +10,7 @@ formButton.addEventListener("submit", function (event) {
 function searchBar(query) {
   const apiKey = "yNi8ZAj9qBwJtgL88PnOmQA0EiTUvKe3";
   let urlSite = `http://api.giphy.com/v1/gifs/search?api_key=${apiKey}&limit=25&q=${query}`;
-
+  
   fetch(urlSite)
     .then(function (response) {
       return response.json();
