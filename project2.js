@@ -1,14 +1,3 @@
-// As a user I want to be able to:
-// - type in text
-// - click submit
-// - view giphs on a page
-// From tech side:
-//- detect when submit is clicked
-//- grab user input
-//- use user input in api call
-//-parse the response
-//- display data
-
 const formButton = document.getElementById("formButton");
 const inputQuery = document.getElementById("inputQuery");
 const result = document.getElementById("imageDiv");
