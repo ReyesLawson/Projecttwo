@@ -15,12 +15,12 @@ Technologies Used
 ## Possible Improvement's
 - Add more interactive features such as buttons.
 - Make more appealing visually.
--work on loading of more gifs per search. 
+- Work on loading of more gifs per search. 
 
 ## User Stories
 - As a user I would like to search for a gif using a keyword.
 - As a user I would like to see multiple gifs once a keyword is submitted. 
--As a user I would like for the website to be easy to navigate. 
+- As a user I would like for the website to be easy to navigate. 
 ## Wireframes
-![alt text](<wireframe-gif.png>)
+![alt text](<wireframe-lg.png>)
 ![alt text](<wireframe-sm.png>)
