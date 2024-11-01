@@ -30,6 +30,7 @@ function searchBar(query) {
         resultHTML += `<img class="items" src="${url}" width="${width}" title="${title}" alt="title">`;
         return resultHTML;
       });
+
       result.innerHTML = resultHTML;
     })
     .catch(function (error) {
