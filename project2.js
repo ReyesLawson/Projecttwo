@@ -1,6 +1,9 @@
+const nextButton = document.getElementById("nextButton");
 const formButton = document.getElementById("formButton");
 const inputQuery = document.getElementById("inputQuery");
 const result = document.getElementById("imageDiv");
+
+
 formButton.addEventListener("submit", function (event) {
   event.preventDefault();
   const query = inputQuery.value;
