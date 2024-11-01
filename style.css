@@ -49,13 +49,13 @@ body {
   color: white;
   position: relative;
   font-family: "Staatliches", sans-serif;
+  font-size: 20px;
   padding-bottom: 20px;
-  position:fixed;
-  left:0px;
-  bottom:0px;
-  height:30px;
-  width:100%;
-  
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  height: 40px;
+  width: 100%;
 }
 h1 {
   font-family: "Staatliches", sans-serif;
@@ -64,10 +64,10 @@ h1 {
 }
 h2 {
   height: 200px;
-  width:100%;
+  width: 100%;
   align-items: center;
 }
-.iframe{
-    width:auto;
-    display: flex;
+.iframe {
+  width: auto;
+  display: flex;
 }
