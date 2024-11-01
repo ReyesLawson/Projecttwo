@@ -22,5 +22,5 @@ Technologies Used
 - As a user I would like to see multiple gifs once a keyword is submitted. 
 - As a user I would like for the website to be easy to navigate. 
 ## Wireframes
-![alt text](<./assets/wireframe-lg.pngwireframe-lg.png>)
-![alt text](<./assets/wireframe-sm.pngwireframe-sm.png>)git 
+![alt text](<./assets/wireframe-lg.png>)
+![alt text](<./assets/wireframe-sm.png>)
