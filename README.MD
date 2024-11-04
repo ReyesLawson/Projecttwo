@@ -6,10 +6,8 @@ Reyes Lawson
 
 In this project html, JavaScript and css is used to demonstrate a website that has the capabilities to display gifs by using a search engine. The gifs are sourced through API. 
 
-```
-Technologies Used
-.css, .html ,.js
-```
+## Technologies Used
+- .css, .html ,.js
 
 
 ## Possible Improvement's
@@ -24,3 +22,4 @@ Technologies Used
 ## Wireframes
 ![alt text](<./assets/wireframe-lg.png>)
 ![alt text](<./assets/wireframe-sm.png>)
+![alt text](<.//images/linkproject2.png>)
