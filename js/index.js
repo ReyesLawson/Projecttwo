@@ -21,7 +21,6 @@ function searchBar(query) {
       return response.json();
     })
     .then(function (json) {
-      console.log(json.data[0].images.fixed_width.url);
       let resultHTML = "";
       json.data.map((obj) => {
         const url = obj.images.fixed_width.url;
@@ -34,6 +33,8 @@ function searchBar(query) {
       result.innerHTML = resultHTML;
     })
     .catch(function (error) {
-      console.log(error.message);
+      if (!response.ok) {
+        throw new Error("Bad response");
+      }
     });
 }
