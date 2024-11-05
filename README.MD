@@ -23,3 +23,5 @@ In this project html, JavaScript and css is used to demonstrate a website that h
 ![alt text](<./assets/wireframe-lg.png>)
 ![alt text](<./assets/wireframe-sm.png>)
 ![alt text](<.//images/linkproject2.png>)
+![alt text](<.//images/screenshot01.png>)
+![alt text](<.//images/screenshot02.png>)
