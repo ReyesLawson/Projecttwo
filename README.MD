@@ -10,6 +10,7 @@ In this website html, JavaScript and css is used to demonstrate a website that h
 - .css
 - .html 
 - .js
+- Async
 
 ## User Stories
 - As a user I would like to search for a gif using a keyword.
@@ -26,3 +27,8 @@ In this website html, JavaScript and css is used to demonstrate a website that h
 - Add more interactive features such as buttons.
 - Make more appealing visually.
 - Work on loading of more gifs per search.
+
+## My linkedIn 
+- [www.linkedin.com/in/reyes-lawson-b89a4b324](https://www.linkedin.com/in/reyes-lawson-b89a4b324)
+
+
